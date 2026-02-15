@@ -62,3 +62,9 @@ footer h1 {
   font-size: 28px;
   margin-bottom: 10px;
 }
+
+@media (max-width: 600px) {
+  body {
+    font-size: 16px;
+  }
+}
